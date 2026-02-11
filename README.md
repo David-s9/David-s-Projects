@@ -5,7 +5,7 @@
   
 <br><br>
 - <b>User accounts</b>
-  - <a href="https://github.com">[Unlocking user accounts and password resets]</a>
+  - <a href="https://github.com/David-s9/Unlocking-user-accounts-and-password-resets/tree/main">[Unlocking user accounts and password resets]</a>
 - Organizational Units
   - Creating Organizational Units
   - Creating Groups
