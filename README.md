@@ -18,7 +18,7 @@
 
 <br><br>
 
-[linkedin]: 
+<a href="https://www.linkedin.com/in/davidwstrickler/">Linkedin Profile</a> 
 <br><br>
 
 
