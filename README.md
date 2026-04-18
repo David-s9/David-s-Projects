@@ -7,7 +7,7 @@
 - <b>User accounts</b>
   - <a href="https://github.com/David-s9/Unlocking-user-accounts-and-password-resets/tree/main">Unlocking user accounts and password resets</a>
 - Organizational Units
-  - Creating Organizational Units, Groups, and Users
+  - <a href="https://github.com/David-s9/Creating-Organizational-Units-Groups-and-Users/tree/main">Creating Organizational Units, Groups, and Users</a>
 <br><br>
 <h2>🕵️  SIEM Projects </h2>
 
