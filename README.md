@@ -1,6 +1,7 @@
 # David's Projects
-<h1>Hi, I'm David the <a href="https://github.com/Mcdav3y/David-s-Projects">Security Analyst and IT Technician</a>
-<br><br>
+<h1>Hi, I'm David the <a href="https://github.com/Mcdav3y/David-s-Projects">Security Analyst and IT Technician</a></h1> 
+Check out my labs and projects below:
+<br>
 <h2>👨‍💻 Windows Active Directory Projects:</h2> 
 
 
