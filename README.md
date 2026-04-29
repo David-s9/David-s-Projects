@@ -13,6 +13,7 @@ Check out my labs and projects below:
 <h2>🕵️  SIEM Projects </h2>
 
 - <a href="https://github.com/David-s9/Threat-Hunting-with-Splunk">Threat hunting with Splunk</a>
+- <a href="https://github.com/David-s9/Automating-Incident-Response-with-Splunk-SOAR">Automating Incident Response with Splunk SOAR</a>
 
 
 
