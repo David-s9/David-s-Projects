@@ -14,6 +14,7 @@ Check out my labs and projects below:
 
 - <a href="https://github.com/David-s9/Threat-Hunting-with-Splunk">Threat hunting with Splunk</a>
 - <a href="https://github.com/David-s9/Automating-Incident-Response-with-Splunk-SOAR">Automating Incident Response with Splunk SOAR</a>
+- <a href="https://github.com/David-s9/Risk-Based-Incident-Analysis-in-Splunk-Enterprise">Risk-Based Incident Analysis in Splunk Enterprise</a>
 
 
 
